@@ -6,7 +6,7 @@ Python pizza ordering program using Domino's API
 ### Disclaimer
 This is a fork of https://github.com/techwithtim/pizzapi for studying purpose. 
 
-### Run
+### Run - tutorial_pizza.py
 Input some ordering infos on console and you can actually order pizza.
 1. Menu
 2. Order
