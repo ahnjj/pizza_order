@@ -1,18 +1,16 @@
 # pizza_order
 
-Pizza ordering program using Domino's API
+## Description
+Python pizza ordering program using Domino's API
 
-### Goal
-Know how to use API
-Can actually order domino pizza near my house (only available who lives in NA)
+### Disclaimer
+This is a fork of https://github.com/techwithtim/pizzapi for studying purpose. 
 
 ### Run
+Input some ordering infos on console and you can actually order pizza.
 1. Menu
-
 2. Order
-
 3. Input Credit card info
-
 4. Customer info
 
-5. 40 Bay St, Toronto, ON, M5J2X2
+Only works in NA....
