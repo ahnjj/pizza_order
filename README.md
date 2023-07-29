@@ -2,11 +2,11 @@
 
 Pizza ordering program using Domino's API
 
-###Goal
+### Goal
 Know how to use API
 Can actually order domino pizza near my house (only available who lives in NA)
 
-###Run
+### Run
 1. Menu
 
 2. Order
